@@ -1,0 +1,71 @@
+{
+    "搜猎人艺术生活":[
+        {
+            "id" : 1,
+            "imgUrl" : "./images/1.png",
+            "productName" : "夏季男士迷彩无袖T恤圆领潮流韩版修身男装背心青年时尚打底衫男",
+            "productSpec" : "默认",
+            "productSize" : "16*16*3(cm)",
+            "productPrice" : 980,
+            "produceNum" : 1
+        },
+        {
+            "id" : 2,
+            "imgUrl" : "./images/2.png",
+            "productName" : "夏季男士迷彩无袖T恤圆领潮流韩版修身男装背心青年时尚打底衫男",
+            "productSpec" : "默认",
+            "productSize" : "16*16*3(cm)",
+            "productPrice" : 780,
+            "produceNum" : 2
+        },
+        {
+            "id" : 3,
+            "imgUrl" : "./images/3.png",
+            "productName" : "夏季男士迷彩无袖T恤圆领潮流韩版修身男装背心青年时尚打底衫男",
+            "productSpec" : "默认",
+            "productSize" : "16*16*3(cm)",
+            "productPrice" : 180,
+            "produceNum" : 1
+        }
+    ],
+    "卷卷旗舰店":[
+        {
+            "id" : 4,
+            "imgUrl" : "./images/4.png",
+            "productName" : "夏季男士迷彩无袖T恤圆领潮流韩版修身男装背心青年时尚打底衫男",
+            "productSpec" : "默认",
+            "productSize" : "16*16*3(cm)",
+            "productPrice" : 1980,
+            "produceNum" : 1
+        },
+        {
+            "id" : 5,
+            "imgUrl" : "./images/5.png",
+            "productName" : "夏季男士迷彩无袖T恤圆领潮流韩版修身男装背心青年时尚打底衫男",
+            "productSpec" : "默认",
+            "productSize" : "16*16*3(cm)",
+            "productPrice" : 80,
+            "produceNum" : 2
+        }
+    ],
+    "耐克旗舰店":[
+        {
+            "id" : 6,
+            "imgUrl" : "./images/2.png",
+            "productName" : "夏季男士迷彩无袖T恤圆领潮流韩版修身男装背心青年时尚打底衫男",
+            "productSpec" : "默认",
+            "productSize" : "16*16*3(cm)",
+            "productPrice" : 180,
+            "produceNum" : 1
+        },
+        {
+            "id" : 7,
+            "imgUrl" : "./images/5.png",
+            "productName" : "夏季男士迷彩无袖T恤圆领潮流韩版修身男装背心青年时尚打底衫男",
+            "productSpec" : "默认",
+            "productSize" : "16*16*3(cm)",
+            "productPrice" : 250,
+            "produceNum" : 2
+        }
+    ]
+}
